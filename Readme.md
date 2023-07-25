@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Victoria B](https://up.htmlacademy.ru/adaptive/29/user/944365).
-* Наставник: `Неизвестно`.
+- Студент: [Victoria B](https://up.htmlacademy.ru/adaptive/29/user/944365).
+- Наставник: `Кенан Агаев`.
 
 ---
 
